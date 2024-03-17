@@ -12,12 +12,13 @@ This is a simple shopping cart application built with React.js. It allows users 
 ## Installation
 
 1. Clone the repository:
-
-2. Navigate to the project directory:
-
-3. Install dependencies: npm install
-
-4. Start the development server: npm start
+    https://github.com/fatyThr/test-front-we-it-app.git
+2. Navigate to the project directory: 
+    cd test-front-we-it-app
+3. Install dependencies:
+    npm install
+4. Start the development server:
+    npm start
 
 
 ## Usage
